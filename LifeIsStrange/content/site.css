@@ -38,3 +38,18 @@ button.navbar-toggle{
 span.icon-bar{
     border:1px solid #FFF6F0;
 }
+
+/*TRAILER SECTION*/
+.mainSec {
+    background-image: url('../images/junkyard.jpg');
+    margin-top:0px;
+    background-size:cover;
+}
+h1.container#trailer{
+    text-align:right;
+    background-color:rgbA(232,214,207,0.0);
+}
+/*PREVIEW SECTION*/
+.previewSec{
+    margin:auto;
+}
